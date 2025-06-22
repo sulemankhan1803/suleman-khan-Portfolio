@@ -46,6 +46,7 @@ my-portfolio/
 ├── public/
 │   └── favicon.png
 |   └── Mohammed_Suleman_Khan_Pathan.pdf
+|   └── og-image.png
 │   └── images/
 │  
 ├── .gitignore
