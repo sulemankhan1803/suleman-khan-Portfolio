@@ -8,7 +8,7 @@ A modern, responsive, and animated personal portfolio website built using **Next
 
 ## 🌐 Live Demo
 
-👉 [Visit Portfolio](https://your-portfolio-live-link.com)
+👉 [Visit Portfolio](https://suleman-khan-portfolio.vercel.app/)
 
 ---
 
