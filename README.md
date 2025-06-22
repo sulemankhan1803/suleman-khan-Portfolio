@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Suleman Khan Portfolio
 
-## Getting Started
+A modern, responsive, and animated personal portfolio website built using **Next.js**, **React**, **Tailwind CSS**, and **Framer Motion**. It showcases my full-stack projects, technical skills, and includes a contact form using **Web3Forms**.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+---
+
+## 🌐 Live Demo
+
+👉 [Visit Portfolio](https://your-portfolio-live-link.com)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Next.js
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Contact Form:** Web3Forms
+- **Image Optimization:** next/image
+- **Version Control:** Git & GitHub
+- **Deployment:** Vercel
+
+
+
+## 📁 Project Structure
+
+```
+my-portfolio/
+├── app/
+│   └── page.jsx
+│   └── layout.jsx
+|   └── globals.css
+├── components/
+│   └── Navbar.jsx
+│   └── Header.jsx
+│   └──About.jsx
+│   └──Skills.jsx
+│   └── Projects.jsx
+│   └── Contact.jsx
+│   └── Footer.jsx
+├── assets/
+|   └── assets.js
+|   └── icons/
+├── public/
+│   └── favicon.png
+|   └── Mohammed_Suleman_Khan_Pathan.pdf
+│   └── images/
+│  
+├── .gitignore
+├── postcss.config.mjs
+├── next.config.mjs
+└── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🔄 Responsive layout for mobile and desktop
+- 🌙 Dark mode support
+- 🎥 Smooth animations using Framer Motion
+- 💼 Dynamic project section with live/source links
+- 📨 Contact form integration with Web3Forms
+- 🔍 SEO-friendly structure with fast load time
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
